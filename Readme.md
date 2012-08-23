@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/niftylettuce/express-cdn-cloudflare.png)](http://travis-ci.org/niftylettuce/express-cdn-cloudflare)
 
 # express-cdn-cloudflare <sup>0.0.1</sup>
 
